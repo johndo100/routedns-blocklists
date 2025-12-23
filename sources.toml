@@ -1,0 +1,22 @@
+# RouteDNS blocklist sources
+
+# Hagezi's normal blocklist with wildcard domains
+# Need to be converted from wildcard to routedns domain format
+[[source]]
+name   = "hagezi-normal"
+format = "domain"
+url    = "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/multi.txt"
+license = "GPL-3.0"
+
+# AdGuard Vietnamese filter list for blocking Vietnamese ads and trackers (ABPVN)
+# This is Adguard syntax but in hosts format, need to be converted
+[[source]]
+name   = "abpvn"
+format = "hosts"
+url    = "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt"
+
+# BigDargon HostsVN list for blocking Vietnamese ads and trackers (only Vietnamese domains)
+[[source]]
+name   = "bigdargon-hostsVN-option"
+format = "hosts"
+url    = "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN"
