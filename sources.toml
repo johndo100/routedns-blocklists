@@ -29,7 +29,7 @@ url             = "https://adguardteam.github.io/HostlistsRegistry/assets/filter
 input_format    = "hosts"
 output_format   = "domain"
 conversion      = true
-conversion_rule = "hosts-to-domain"   # 0.0.0.0 example.com → .example.com
+conversion_rule = "hosts-to-domain"   # 0.0.0.0 example.com → example.com
 
 
 # ------------------------------------------------------------
