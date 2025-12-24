@@ -1,33 +1,69 @@
 # RouteDNS blocklist sources
 # This is intended for my needs, mainly for Vietnamese users.
-# I use some lists from https://github.com/cbuijs
-# This list fills the gap for Vietnamese-specific blocklists.
+# I use some lists from https://github.com/cbuijs; these lists help fill gaps
+# in Vietnamese-specific blocklists.
 
-# AdGuard Vietnamese filter list for blocking Vietnamese ads and trackers (ABPVN)
-# This is Adguard syntax but in hosts format, need to be converted
-[[source]]
-name   = "abpvn"
-homepage = "https://github.com/abpvn/abpvn"
-format = "hosts"
-url    = "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt"
+# INPUT → ROUTEDNS NORMALIZATION
+#
+# domains            → domain  (exact: example.com)
+# hosts              → hosts   (0.0.0.0 example.com)
+# hosts-compact      → hosts   (optimized hosts format)
+# adblock            → domain  (||example.com^ → .example.com)
+# dnsmasq            → domain  (address=/example.com/ → .example.com)
+# wildcard-asterisk  → domain  (*.example.com, subdomains only)
+# wildcard           → domain  (example.com → .example.com)
+# rpz                → domain  (example.com CNAME . → .example.com)
+#
+# OUTPUT: domain | hosts | regexp | mac | cidr | location
+# FILENAME: <name>-<output>.routedns
 
-# BigDargon HostsVN list for blocking Vietnamese ads and trackers (only Vietnamese domains)
-[[source]]
-name   = "bigdargon-hostsVN-option"
-homepage = "https://github.com/bigdargon/hostsVN"
-format = "hosts"
-url    = "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN"
 
-# Quick, easy and painless way of blocking Adobe's telemetry checking servers
+# ------------------------------------------------------------
+# AdGuard Vietnamese filter list (ABPVN)
+# Hosts-style list distributed by AdGuard
+# ------------------------------------------------------------
 [[source]]
-name   = "a-dove-is-dumb"
-homnepage = "https://github.com/ignaciocastro/a-dove-is-dumb"
-format = "hosts"
-url    = "https://a.dove.isdumb.one/list.txt"
+name            = "abpvn"
+homepage        = "https://github.com/abpvn/abpvn"
+url             = "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt"
+input_format    = "hosts"
+output_format   = "domain"
+conversion      = true
+conversion_rule = "hosts-to-domain"   # 0.0.0.0 example.com → .example.com
 
-# Adobe URL Block List to block Adobe software from phoning home
+
+# ------------------------------------------------------------
+# BigDargon HostsVN – Vietnamese ads & trackers (VN domains only)
+# ------------------------------------------------------------
 [[source]]
-name   = "Adobe-URL-Block-List-hosts"
-homepage = "https://github.com/Ruddernation-Designs/Adobe-URL-Block-List"
-format = "hosts"
-url    = "https://raw.githubusercontent.com/Ruddernation-Designs/Adobe-URL-Block-List/refs/heads/master/hosts"
+name            = "bigdargon-hostsVN-option"
+homepage        = "https://github.com/bigdargon/hostsVN"
+url             = "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain-VN.txt"
+input_format    = "domains"
+output_format   = "domain"
+conversion      = false           # keep exact match
+
+
+# ------------------------------------------------------------
+# A-dove-is-dumb – Adobe telemetry blocking
+# ------------------------------------------------------------
+[[source]]
+name            = "a-dove-is-dumb"
+homepage        = "https://github.com/ignaciocastro/a-dove-is-dumb"
+url             = "https://a.dove.isdumb.one/pihole.txt"
+input_format    = "domains"
+output_format   = "domain"
+conversion      = true
+conversion_rule = "prepend-dot"   # example.com → .example.com
+
+
+# ------------------------------------------------------------
+# Adobe URL Block List – hosts-based
+# ------------------------------------------------------------
+[[source]]
+name            = "Adobe-URL-Block-List"
+homepage        = "https://github.com/Ruddernation-Designs/Adobe-URL-Block-List"
+url             = "https://raw.githubusercontent.com/Ruddernation-Designs/Adobe-URL-Block-List/refs/heads/master/hosts"
+input_format    = "hosts"
+output_format   = "hosts"
+conversion      = false           # hosts stay hosts

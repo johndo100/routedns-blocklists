@@ -15,6 +15,17 @@ The lists are built **for personal use**, based on my own needs and preferences.
 
 See [sources.toml](sources.toml).
 
+| Format            | Slug              | RouteDNS Type | Notes                                                                      |
+|-------------------|-------------------|---------------|----------------------------------------------------------------------------|
+| Domains           | domains           | domain        | Exact match only (e.g. `example.com`)                                       |
+| Hosts             | hosts             | hosts         | Standard hosts file format                                                  |
+| Hosts (Compact)   | hosts-compact     | hosts         | Optimized hosts format                                                      |
+| Adblock           | adblock           | —             | Adblock syntax (**conversion REQUIRED**)                                    |
+| DNSMasq           | dnsmasq           | —             | dnsmasq-style rules (**conversion REQUIRED**)                               |
+| Wildcard (*)      | wildcard-asterisk | domain        | Subdomains only (e.g. `*.example.com`, root NOT matched)                    |
+| Wildcard          | wildcard          | domain        | Root + subdomains (**MUST convert `example.com` → `.example.com`**)        |
+| RPZ               | rpz               | —             | Response Policy Zone format                                                 |
+
 Some blocklists you may find useful:
 
 - [HaGeZi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
