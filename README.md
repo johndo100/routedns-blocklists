@@ -6,10 +6,10 @@ The lists are built **for personal use**, based on my own needs and preferences.
 
 ## How It Works
 
-- CI fetches upstream blocklists
-- Entries are normalized and filtered for DNS-level use
-- Domain-only lists are generated
-- Output files are published automatically
+- CI fetches upstream blocklists  
+- Entries are normalized and filtered for DNS-level use  
+- Domain-only lists are generated  
+- Output files are published automatically  
 
 ## Sources
 
@@ -25,9 +25,9 @@ Some blocklists you may find useful:
 
 ## Notes
 
-- Generated files are updated automatically via CI
-- False positives may occur
-- I use some lists from [cbuijs](https://github.com/cbuijs)
+- Generated files are updated automatically via CI  
+- False positives may occur  
+- I already use some lists from [cbuijs](https://github.com/cbuijs), and this repository helps fill the gap  
 
 ## License
 
