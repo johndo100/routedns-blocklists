@@ -1,32 +1,46 @@
-# RouteDNS Blocklist (CI)
+# RouteDNS Blocklists (Automation)
 
-This repository **uses CI to convert upstream blocklist sources into RouteDNS-compatible domain lists** and **publishes the generated output publicly**.
+This repository uses **GitHub Actions automation** to convert upstream blocklist sources into **RouteDNS-compatible lists** and **publishes the generated output publicly as plain text files**.
 
-The lists are built **for personal use**, based on my own needs and preferences.
+The lists are built **for personal use**, based on my own needs and preferences, with a focus on **DNS-level blocking** and **Vietnamese-specific coverage**.
+
+---
 
 ## How It Works
 
-- CI fetches upstream blocklists  
-- Entries are normalized and filtered for DNS-level use  
-- Domain-only lists are generated  
-- Output files are published automatically  
+- GitHub Actions fetches upstream blocklist sources
+- Entries are normalized for DNS-level use
+- Unsupported formats are converted when required
+- RouteDNS-compatible lists are generated
+- Output files are updated and published automatically
+
+All generated files are **auto-generated** and should be treated as **read-only**.
+
+---
 
 ## Sources
 
-See [sources.toml](sources.toml).
+Source definitions and conversion rules are documented in  
+👉 **[`sources.toml`](sources.toml)**
 
-| Format            | Slug              | RouteDNS Type | Notes                                                                      |
-|-------------------|-------------------|---------------|----------------------------------------------------------------------------|
-| Domains           | domains           | domain        | Exact match only (e.g. `example.com`)                                       |
-| Hosts             | hosts             | hosts         | Standard hosts file format                                                  |
-| Hosts (Compact)   | hosts-compact     | hosts         | Optimized hosts format                                                      |
-| Adblock           | adblock           | —             | Adblock syntax (**conversion REQUIRED**)                                    |
-| DNSMasq           | dnsmasq           | —             | dnsmasq-style rules (**conversion REQUIRED**)                               |
-| Wildcard (*)      | wildcard-asterisk | domain        | Subdomains only (e.g. `*.example.com`, root NOT matched)                    |
-| Wildcard          | wildcard          | domain        | Root + subdomains (**MUST convert `example.com` → `.example.com`**)        |
-| RPZ               | rpz               | —             | Response Policy Zone format                                                 |
+### Input → RouteDNS Normalization
 
-Some blocklists you may find useful:
+| Format            | Slug              | RouteDNS Type | Notes |
+|-------------------|-------------------|---------------|-------|
+| Domains           | domains           | domain        | Exact match only (e.g. `example.com`) |
+| Hosts             | hosts             | hosts         | Standard hosts file format |
+| Hosts (Compact)   | hosts-compact     | hosts         | Optimized hosts format |
+| Adblock           | adblock           | —             | Adblock syntax (**conversion REQUIRED**) |
+| DNSMasq           | dnsmasq           | —             | dnsmasq-style rules (**conversion REQUIRED**) |
+| Wildcard (*)      | wildcard-asterisk | domain        | Subdomains only (e.g. `*.example.com`, root not matched) |
+| Wildcard          | wildcard          | domain        | Root + subdomains (**MUST convert `example.com` → `.example.com`**) |
+| RPZ               | rpz               | —             | Response Policy Zone format |
+
+---
+
+## Related Blocklists
+
+Some blocklist projects you may also find useful:
 
 - [HaGeZi DNS Blocklists](https://github.com/hagezi/dns-blocklists)
 - [StevenBlack Unified hosts](https://github.com/StevenBlack/hosts)
@@ -34,12 +48,16 @@ Some blocklists you may find useful:
 - [oisd blocklist](https://github.com/sjhgvr/oisd)
 - [1Hosts](https://github.com/badmojr/1Hosts)
 
+---
+
 ## Notes
 
-- Generated files are updated automatically via CI  
-- False positives may occur  
-- I already use some lists from [cbuijs](https://github.com/cbuijs), and this repository helps fill the gap  
+- Generated files are updated automatically via GitHub Actions
+- False positives may occur
+- I already use some lists from [cbuijs](https://github.com/cbuijs); this repository helps fill gaps, especially for Vietnamese-specific blocklists
+
+---
 
 ## License
 
-Provided as-is, without warranty.
+Provided **as-is**, without warranty.
