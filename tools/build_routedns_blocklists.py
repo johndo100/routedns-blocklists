@@ -95,6 +95,8 @@ def dedupe_hosts(lines):
 
     return set(out.values())
 
+def normalize_filename(s: str) -> str:
+    return s.strip().lower()
 
 # --------------------------------------------------
 # Core processing
@@ -138,7 +140,8 @@ def process_source(src):
             raise ValueError(f"Unknown conversion_rule: {rule}")
 
     # ---- Write output ----
-    out_file = OUTPUT_DIR / f"{name}-{output_format}.routedns"
+    filename = normalize_filename(f"{name}-{output_format}.routedns")
+    out_file = OUTPUT_DIR / filename
 
     now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     entry_count = len(data)
