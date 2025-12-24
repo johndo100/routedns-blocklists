@@ -15,7 +15,6 @@ OUTPUT_DIR = ROOT_DIR / "output"
 
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-
 # --------------------------------------------------
 # Helpers
 # --------------------------------------------------
@@ -40,10 +39,10 @@ def parse_domains(lines):
 
 def hosts_to_domain(lines):
     """
-    Convert hosts-style entries to wildcard domains.
+    Convert hosts-style entries to exact-match domains.
 
-    0.0.0.0 example.com  ->  .example.com
-    :: example.com       ->  .example.com
+    0.0.0.0 example.com  -> example.com
+    :: example.com       -> example.com
     """
     out = set()
     for line in lines:
@@ -57,13 +56,15 @@ def hosts_to_domain(lines):
 
         domain = normalize_domain(parts[1])
         if domain and domain not in ("localhost", "localhost.localdomain"):
-            out.add("." + domain)
+            out.add(domain)
 
     return out
 
 
 def prepend_dot(domains):
     """
+    Explicit wildcard conversion.
+
     example.com -> .example.com
     """
     return {"." + normalize_domain(d) for d in domains if d}
@@ -94,6 +95,7 @@ def dedupe_hosts(lines):
             out[domain] = f"{ip} {domain}"
 
     return set(out.values())
+
 
 def normalize_filename(s: str) -> str:
     return s.strip().lower()
@@ -135,7 +137,7 @@ def process_source(src):
         if rule == "prepend-dot":
             data = prepend_dot(data)
         elif rule == "hosts-to-domain":
-            pass  # already handled
+            pass  # exact match already handled
         else:
             raise ValueError(f"Unknown conversion_rule: {rule}")
 
