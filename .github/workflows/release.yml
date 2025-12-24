@@ -1,9 +1,12 @@
 name: Build & release RouteDNS blocklists
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"   # daily at 03:00 UTC
+    - cron: "0 3 * * *"
   push:
     paths:
       - sources.toml
