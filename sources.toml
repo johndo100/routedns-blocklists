@@ -1,22 +1,33 @@
 # RouteDNS blocklist sources
-
-# Hagezi's normal blocklist with wildcard domains
-# Need to be converted from wildcard to routedns domain format
-[[source]]
-name   = "hagezi-normal"
-format = "domain"
-url    = "https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/multi.txt"
-license = "GPL-3.0"
+# This is intended for my needs, mainly for Vietnamese users.
+# I use some lists from https://github.com/cbuijs
+# This list fills the gap for Vietnamese-specific blocklists.
 
 # AdGuard Vietnamese filter list for blocking Vietnamese ads and trackers (ABPVN)
 # This is Adguard syntax but in hosts format, need to be converted
 [[source]]
 name   = "abpvn"
+homepage = "https://github.com/abpvn/abpvn"
 format = "hosts"
 url    = "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt"
 
 # BigDargon HostsVN list for blocking Vietnamese ads and trackers (only Vietnamese domains)
 [[source]]
 name   = "bigdargon-hostsVN-option"
+homepage = "https://github.com/bigdargon/hostsVN"
 format = "hosts"
 url    = "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN"
+
+# Quick, easy and painless way of blocking Adobe's telemetry checking servers
+[[source]]
+name   = "a-dove-is-dumb"
+homnepage = "https://github.com/ignaciocastro/a-dove-is-dumb"
+format = "hosts"
+url    = "https://a.dove.isdumb.one/list.txt"
+
+# Adobe URL Block List to block Adobe software from phoning home
+[[source]]
+name   = "Adobe-URL-Block-List-hosts"
+homepage = "https://github.com/Ruddernation-Designs/Adobe-URL-Block-List"
+format = "hosts"
+url    = "https://raw.githubusercontent.com/Ruddernation-Designs/Adobe-URL-Block-List/refs/heads/master/hosts"
