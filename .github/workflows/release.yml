@@ -6,7 +6,7 @@ permissions:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '23 5 * * *'  # Weekly on Sundays at midnight
+    - cron: '23 5 * * *'  # Daily at 05:23 UTC
   push:
     paths:
       - sources.toml
