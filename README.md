@@ -38,6 +38,52 @@ Source definitions and conversion rules are documented in
 
 ---
 
+## Usage with RouteDNS
+
+The generated blocklists are published as **plain text files** in the [`output`](output) directory and can be consumed directly by **RouteDNS** as external lists for either:
+
+- **Query Blocklist**  
+  https://github.com/folbricht/routedns/blob/master/doc/configuration.md#query-blocklist
+- **Response Blocklist**  
+  https://github.com/folbricht/routedns/blob/master/doc/configuration.md#response-blocklist
+
+---
+
+### Example: Using Blocklists
+
+```toml
+# Block queries (by name) using lists loaded from remote locations with HTTP and refreshed once a day
+[groups.blocklist]
+type = "blocklist-v2"
+resolvers = ["blocklist-response"]
+blocklist-refresh = 86400
+blocklist-source = [
+        {format = "domain", source = "https://raw.githubusercontent.com/cbuijs/hagezi/refs/heads/main/lists/multi/domains.routedns", allow-failure = true},
+        {format = "hosts", source = "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN", allow-failure = true},
+        {format = "hosts", source = "https://a.dove.isdumb.one/list.txt", allow-failure = true},
+]
+
+# Block responses that include certain names. Also loaded via HTTP and refreshed daily
+[groups.blocklist-response]
+type = "response-blocklist-name"
+resolvers = ["blocklist-ip"]
+blocklist-refresh = 86400
+blocklist-source = [
+        {format = "domain", source = "https://raw.githubusercontent.com/cbuijs/hagezi/refs/heads/main/lists/multi/domains.routedns", allow-failure = true},
+        {format = "domain", source = "https://raw.githubusercontent.com/johndo100/routedns-blocklists/refs/heads/main/output/bigdargon-hostsvn-option-domain.routedns", allow-failure = true},
+        {format = "domain", source = "https://raw.githubusercontent.com/johndo100/routedns-blocklists/refs/heads/main/output/a-dove-is-dumb-domain.routedns", allow-failure = true},
+]
+```
+
+### Notes
+
+- Use the **RouteDNS type** (`domain` or `hosts`) that matches the generated file  
+- Files are **auto-updated**; RouteDNS will pick up changes on reload or restart  
+- Lists are intended for **DNS-level blocking only** (no cosmetic or URL-path rules)  
+- Multiple blocklists can be combined in a single listener or resolver  
+
+---
+
 ## Related Blocklists
 
 Some blocklist projects you may also find useful:
