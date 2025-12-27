@@ -59,8 +59,8 @@ resolvers = ["blocklist-response"]
 blocklist-refresh = 86400
 blocklist-source = [
         {format = "domain", source = "https://raw.githubusercontent.com/cbuijs/hagezi/refs/heads/main/lists/multi/domains.routedns", allow-failure = true},
-        {format = "hosts", source = "https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/hosts-VN", allow-failure = true},
-        {format = "hosts", source = "https://a.dove.isdumb.one/list.txt", allow-failure = true},
+        {format = "domain", source = "https://raw.githubusercontent.com/johndo100/routedns-blocklists/refs/heads/main/output/abpvn-domain.routedns", allow-failure = true},
+        {format = "hosts", source = "https://raw.githubusercontent.com/johndo100/routedns-blocklists/refs/heads/main/output/adobe-url-block-list-hosts.routedns", allow-failure = true},
 ]
 
 # Block responses that include certain names. Also loaded via HTTP and refreshed daily
