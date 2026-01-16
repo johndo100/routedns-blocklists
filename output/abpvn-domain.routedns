@@ -1,8 +1,8 @@
 # Title: abpvn
 # Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-# Last modified: 2026-01-15T05:45:56Z
+# Last modified: 2026-01-16T05:44:58Z
 # Syntax: domain
-# Number of entries: 18056
+# Number of entries: 18058
 #
 0a0d-d3l1vr.b-cdn.net
 0i0i0i0.com
@@ -11094,6 +11094,7 @@ ofleafeona.com
 ofw-client-cdn.fyber.com
 og-shopee9.com
 og.alcmpn.com
+ogads-pa.clients6.google.com
 ogads-pa.googleapis.com
 oghqvffmnt.com
 ogs.ants.vn
@@ -15390,6 +15391,7 @@ tiktokpangle.us
 tilanalytics.timesinternet.in
 tilqwekuszfa.com
 timeinc.trc.taboola.com
+timohtazxazej.website
 tinkoff.cityads.com
 tinybar.com
 tip.atdmt.com
