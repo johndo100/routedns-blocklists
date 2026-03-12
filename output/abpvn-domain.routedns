@@ -1,8 +1,8 @@
 # Title: abpvn
 # Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-# Last modified: 2026-03-11T06:05:42Z
+# Last modified: 2026-03-12T06:07:57Z
 # Syntax: domain
-# Number of entries: 18282
+# Number of entries: 18306
 #
 0a0d-d3l1vr.b-cdn.net
 0i0i0i0.com
@@ -120,6 +120,7 @@
 514007132.collect.igodigital.com
 514012690.collect.igodigital.com
 520click.com
+540creative.net
 578756.gameloft.com
 5advertise.com
 5cc9c408-c3fa-41dd-88bb-c303115bb2db.snippet.antillephone.com
@@ -2152,6 +2153,7 @@ adx-f.ads.heytapmobi.com
 adx-f.ads.heytapmobile.com
 adx-fk-req.mosspf.cn
 adx-fk-req.mosspf.net
+adx-fk-req.mossru.com
 adx-fk-req.mossturbo.com
 adx-fk.mosspf.net
 adx-id.ads.heytapmobi.com
@@ -2170,9 +2172,11 @@ adx-os.bridgeoos.com
 adx-os.toponadss.com
 adx-ph.ads.heytapmobile.com
 adx-rf-request.mosspf.net
+adx-rf-request.mossru.com
 adx-rf-request.mossturbo.com
 adx-rf.mosspf.net
 adx-sg-req.bridgeoos.com
+adx-sg-req.mossfast.com
 adx-sg-req.mosspf.cn
 adx-sg-req.mosspf.com
 adx-sg-req.mossturbo.com
@@ -2190,6 +2194,7 @@ adx-tw.ads.heytapmobile.com
 adx-vg-req.mosspf.cn
 adx-vg-req.mosspf.com
 adx-vg-req.mosspf.net
+adx-vg-req.mossru.com
 adx-vg-req.mossturbo.com
 adx-vg-req.toponadss.com
 adx-vg.mosspf.net
@@ -2214,9 +2219,11 @@ adx.hoanggia.net.vn
 adx.lsosad.com
 adx.mediago.io
 adx.mediaz.asia
+adx.mossfast.com
 adx.mosspf.cn
 adx.mosspf.com
 adx.mosspf.net
+adx.mossru.com
 adx.mossturbo.com
 adx.opera.com
 adx.otm-r.com
@@ -3129,9 +3136,11 @@ api.mobula.sd.duapps.com
 api.mobula.sdk.duapps.com
 api.monedata.io
 api.moneyoyo.org
+api.mossfast.com
 api.mosspf.cn
 api.mosspf.com
 api.mosspf.net
+api.mossru.com
 api.mossturbo.com
 api.myadsget.com
 api.nas.nct.vn
@@ -6264,9 +6273,11 @@ da.anythinktech.com
 da.bridgeoos.com
 da.hookspf.com
 da.inmobi.com
+da.mossfast.com
 da.mosspf.cn
 da.mosspf.com
 da.mosspf.net
+da.mossru.com
 da.mossturbo.com
 da.toponadss.com
 daa.pbbl.co
@@ -10719,9 +10730,11 @@ mopub.com
 moradu.com
 mores.mosspf.net
 mores.mossturbo.com
+mossfast.com
 mosspf.cn
 mosspf.com
 mosspf.net
+mossru.com
 mossturbo.com
 motricity.com
 motrixi.com
@@ -10868,6 +10881,7 @@ mystat.pl
 mytdsnet.com
 mythings.com
 mytop-in.net
+mzyvyjsq.com
 n.ads1-adnow.com
 n.ads2-adnow.com
 n.ads3-adnow.com
@@ -11433,6 +11447,7 @@ origincdn.cpmstar.com
 origunix.com
 oriori.com
 orlotalers.com
+orqmimfug.in
 ortb.yieldlab.net
 ortshk.tapas.net
 orylhull.com
@@ -11635,6 +11650,7 @@ palaceunlituntouched.com
 palaroleg.guru
 paleleaf.com
 pallet.fm
+panclndhgcpktf.com
 panel.ioam.de
 panel.sociaplus.com
 pangle-b.io
@@ -13163,6 +13179,7 @@ rjw4obbw.com
 rkdms.com
 rkgwzfwjgk.com
 rklmstr.com
+rl.harshlyistles.com
 rlcdn.com
 rle.ru
 rlog.9gag.com
@@ -15225,6 +15242,7 @@ system.adtarget.me
 system.indexexchange.com
 systemleadb.com
 systracking.admicro.vn
+sz.pyrulaupstage.qpon
 t-ads.adap.tv
 t.9gag.com
 t.adcell.com
@@ -15445,6 +15463,7 @@ taxel.jp
 tb.baimgfroggd.site
 tb.itmedia.co.jp
 tblog-8sodn459.kgslb.com
+tc.mnbvcxzq.com
 tc.vbnmhjlp.com
 tcads.net
 tcheck.outbrainimg.com
@@ -15592,6 +15611,7 @@ tjk-njk.com
 tjme.io
 tk-sg.anythinktech.com
 tk-sg.bridgeoos.com
+tk-sg.mossfast.com
 tk-sg.mosspf.cn
 tk-sg.mosspf.com
 tk-sg.mosspf.net
@@ -15600,15 +15620,19 @@ tk-sg.toponadss.com
 tk.anythinktech.com
 tk.bridgeoos.com
 tk.hookspf.com
+tk.mossfast.com
 tk.mosspf.cn
 tk.mosspf.com
 tk.mosspf.net
+tk.mossru.com
 tk.mossturbo.com
 tk.toponadss.com
 tk6if76q.ab1n.net
 tkda.hookspf.com
+tkda.mossfast.com
 tkda.mosspf.com
 tkda.mosspf.net
+tkda.mossru.com
 tkda.mossturbo.com
 tkexutqf.in
 tknet.rayjump.com
@@ -17167,6 +17191,7 @@ wmcdpt.com
 wmedia.adk2x.com
 wmip.ru
 wmirk.ru
+wmllfxjjnjq.com
 wms-eu.amazon-adsystem.com
 wms-fe.amazon-adsystem.com
 wms-in.amazon-adsystem.com
@@ -17680,7 +17705,6 @@ www.moneymakercdn.com
 www.montacarichi.it
 www.mopub.com
 www.mosspf.cn
-www.mossturbo.com
 www.mouseflow.com
 www.mousestats.com
 www.movad.net
