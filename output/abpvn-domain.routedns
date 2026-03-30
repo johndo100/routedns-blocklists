@@ -1,8 +1,8 @@
 # Title: abpvn
 # Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-# Last modified: 2026-03-29T06:37:43Z
+# Last modified: 2026-03-30T07:02:46Z
 # Syntax: domain
-# Number of entries: 18313
+# Number of entries: 18319
 #
 0a0d-d3l1vr.b-cdn.net
 0i0i0i0.com
@@ -3200,6 +3200,7 @@ api.simpleanalytics.io
 api.sociaplus.com
 api.sonobi.com
 api.spotxchange.com
+api.sprig.com
 api.stack-sonar.com
 api.staging.wootric.com
 api.stickers.duapps.com
@@ -5242,6 +5243,7 @@ cfg.sonicsads.com
 cfjump.com
 cft.doublemax.net
 cgicounter.puretec.de
+cgqcuskbtcusxl.com
 ch-match.taboola.com
 ch-sync.taboola.com
 ch-vid-events.taboola.com
@@ -7646,6 +7648,7 @@ fourier.taobao.com
 fout.jp
 fovcy1jg.pro
 foxpush.com
+foxtlytvs.com
 fp-cdn.azureedge.net
 fp.advertising.microsoft.com
 fp.metricswpsh.com
@@ -11279,6 +11282,7 @@ ojooo.com
 ojqbnqdwycws.com
 ojwoqdpiwdt.com
 ok.appnexus.com
+okjmiqaqjakm.in
 okspeechlessamong.com
 old.indoleads.com
 oljqobudyusf.com
@@ -12441,6 +12445,7 @@ ps-eu.amazon-adsystem.com
 ps-jp.amazon-adsystem.com
 ps-us.amazon-adsystem.com
 ps.alcmpn.com
+ps.bogymentracery.cyou
 ps.eyeota.net
 ps.innity.com
 ps.popcash.net
@@ -18174,6 +18179,7 @@ yomedia.vn
 yomeno.xyz
 yonhelioliskor.com
 yorclk.wbidder.online
+yoshdeum.com
 youbora.com
 youborafds01.com
 youmi.net
