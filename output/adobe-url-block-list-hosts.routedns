@@ -1,8 +1,8 @@
 # Title: Adobe-URL-Block-List
 # Source: https://raw.githubusercontent.com/Ruddernation-Designs/Adobe-URL-Block-List/refs/heads/master/hosts
-# Last modified: 2026-04-05T06:38:57Z
+# Last modified: 2026-04-06T07:05:10Z
 # Syntax: hosts
-# Number of entries: 935
+# Number of entries: 939
 #
 0.0.0.0 0789i4f3cq.adobestats.io
 0.0.0.0 08n59yhbxn.adobestats.io
@@ -276,6 +276,7 @@
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobedc.demdex.net
 0.0.0.0 adobeereg.com
+0.0.0.0 aepxlg.adobe.com
 0.0.0.0 ag0ak456at.adobestats.io
 0.0.0.0 agxqobl83f.adobestats.io
 0.0.0.0 ah0uf3uzwe.adobestats.io
@@ -288,6 +289,7 @@
 0.0.0.0 aoorovjtha.adobe.io
 0.0.0.0 ar1hqm61sk.adobestats.io
 0.0.0.0 ar3zpq1idw.adobestats.io
+0.0.0.0 armmf.adobe.com
 0.0.0.0 arzggvbs37.adobestats.io
 0.0.0.0 as15ffplma.adobestats.io
 0.0.0.0 as73qhl83n.adobestats.io
@@ -592,6 +594,7 @@
 0.0.0.0 o9617jdaiw.adobestats.io
 0.0.0.0 o987771.ingest.us.sentry.io
 0.0.0.0 ocsp.spo1.verisign.com
+0.0.0.0 odin.adobe.com
 0.0.0.0 oeab9s6dtf.adobestats.io
 0.0.0.0 oee5i55vyo.adobestats.io
 0.0.0.0 ofgajs60g1.adobestats.io
@@ -671,6 +674,7 @@
 0.0.0.0 r9r6oomgms.adobestats.io
 0.0.0.0 rb0u8l34kr.adobestats.io
 0.0.0.0 rekkvg49.mw1i8.adobestats.io
+0.0.0.0 resources.licenses.adobe.com
 0.0.0.0 riiohpqnpf.adobestats.io
 0.0.0.0 rj669kv2lc.adobestats.io
 0.0.0.0 rlo1n6mv52.adobestats.io
