@@ -1,8 +1,8 @@
 # Title: abpvn
 # Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-# Last modified: 2026-04-21T07:09:09Z
+# Last modified: 2026-04-22T07:08:53Z
 # Syntax: domain
-# Number of entries: 18357
+# Number of entries: 18367
 #
 0a0d-d3l1vr.b-cdn.net
 0i0i0i0.com
@@ -14,6 +14,7 @@
 10.afs.googleadservices.com
 100008436.collect.igodigital.com
 100022618.collect.igodigital.com
+104processors.net
 10907971.collect.igodigital.com
 11ssq.com
 123c.vn
@@ -2914,6 +2915,7 @@ anycast.pixel.adsafeprotected.com
 anycast.popads.net
 anycast.static.adsafeprotected.com
 anylist.c.appier.net
+anym8.com
 anymad.com
 anymedia.lv
 anymind360-com.cdn.ampproject.org
@@ -3483,6 +3485,7 @@ ariane.abtasty.com
 ark.letv.com
 arm.c.appier.net
 aromamirror.com
+arrogancedanderuntruth.com
 arsdev.net
 arsnivyr.com
 arswabluchan.com
@@ -7534,6 +7537,7 @@ fev.fyber.com
 ff.imacdn.com
 fgp.philacct.com
 fhsmtrnsfnt.com
+fhvfd.com
 fibqukktuv.in
 fidelity-media-ssp.rtb.adx1.com
 fidelity-media.com
@@ -9192,6 +9196,7 @@ jailorscoman.cfd
 jaiporukodaisa.com
 jampp.com
 jana1.jeoway.net
+janitorprecisiontrio.com
 jappkummodah.in
 jarvispopsu.com
 jatxt.com
@@ -11181,6 +11186,7 @@ ntvpwpush.com
 ntvsw.com
 nuckinxuco.com
 nuclearads.com
+nucopzqt.in
 nuffnang.com.my
 nuggad.net
 nui.media
@@ -11311,6 +11317,7 @@ omax.admarvel.com
 omazeiros.com
 omciecoa37tw4.com
 omeda.com
+omg10.com
 omgcoool.com
 omgmta.qq.com
 omguk.com
@@ -12362,6 +12369,7 @@ pro.marinsm.com
 proadscdn.com
 probe.yieldlab.net
 proc.ad.cpe.dotomi.com
+proceduresto3.net
 prod-a.applovin.com
 prod-adload.skyadsmart.com
 prod-bid.applovin.com
@@ -12904,6 +12912,7 @@ rcp-php.trafficfactory.biz
 rcp.c.appier.net
 rcv.ust-ad.com
 rcvlink.com
+rcyopmpfef.in
 rd.ambientplatform.vn
 rd.speakol.com
 rd.yovoads.com
@@ -13278,6 +13287,7 @@ rpi-staging.adpopcorn.com
 rpi.adpopcorn.com
 rpx-s1.adangle.online
 rpx.a8.net
+rqjcsnihsje.com
 rqmob.com
 rs-lb-a.lkqd.net
 rs-lb-b.lkqd.net
