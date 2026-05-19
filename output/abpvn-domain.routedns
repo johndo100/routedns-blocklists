@@ -1,11 +1,12 @@
 # Title: abpvn
 # Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-# Last modified: 2026-05-18T08:54:24Z
+# Last modified: 2026-05-19T08:40:38Z
 # Syntax: domain
-# Number of entries: 18414
+# Number of entries: 18442
 #
 0a0d-d3l1vr.b-cdn.net
 0i0i0i0.com
+0iio9.rttrk.com
 0n.click
 0x01n2ptpuz3.com
 0xon2uo9s.com
@@ -2649,6 +2650,7 @@ ams-ae.conversantmedia.com
 ams-usadmm.dotomi.com
 ams.creativecdn.com
 ams.goadserver.com
+ams.rttrk.com
 ams1-ib.adnxs.com
 ams1.everesttech.net
 amuletgloom.com
@@ -3357,7 +3359,6 @@ app.oncustomer.asia
 app.opmnstr.com
 app.optmnstr.com
 app.playstream.media
-app.posthog.com
 app.readpeak.com
 app.sbz.workers.dev
 app.segment.com
@@ -3626,6 +3627,7 @@ assuremath.com
 ast2ya4ee8wtnax.com
 astat.nikkei.com
 astonishlandmassnervy.com
+astraon255.net
 astrategy.beacon.qq.com
 astrsk.net
 aswpsdkeu.com
@@ -4312,6 +4314,7 @@ bquildna43.site
 br.x.cnt.my
 br2.x.cnt.my
 br4.cnt.my
+bra.rttrk.com
 braincash.com
 brainlyads.com
 branch.io
@@ -5393,12 +5396,14 @@ click-dsp-nym2.adkernel.com
 click-dsp-uswest.adkernel.com
 click-dsp.adkernel.com
 click-east.acuityplatform.com
+click-eu-v4.mainexclkdir.com
 click-eu.expmediadirect1.com
 click-eu.pclk.name
 click-euro.acuityplatform.com
 click-haproxy.supersonicads.com
 click-mdsp.avazutracking.net
 click-v4.jadspro.live
+click-v4.mainexclkdir.com
 click-west.acuityplatform.com
 click.a-ads.com
 click.ad-stir.com
@@ -6115,6 +6120,7 @@ ctx.adsafety.net
 cubics.com
 cuddlethehyena.com
 cue.v.fwmrm.net
+culbhiaxntuh.in
 culmedpasses.cam
 culterwhether.com
 cuoituoitrevn.matomo.cloud
@@ -6192,6 +6198,7 @@ d.scorecardresearch.com
 d.shareaholic.com
 d.turn.com
 d.us.criteo.com
+d.uuidksinc.net
 d.watanet.work
 d1.ads.rmbl.ws
 d1.adsplay.net
@@ -7773,6 +7780,7 @@ g1.v.fwmrm.net
 g11v.prd.ads.aws.fwmrm.net
 g2.adspeed.net
 g2.gumgum.com
+g2288.com
 g2afse.com
 g2insights-cdn.azureedge.net
 g8.adspeed.net
@@ -8007,6 +8015,7 @@ gm.mmstat.com
 gma.alicdn.com
 gmads.mookie1.com
 gmads.net
+gmhyebojlimvqbc.com
 gmossp-sp.jp
 gmtdmp.mookie1.com
 gmxvmvptfm.com
@@ -8546,7 +8555,6 @@ i.miaozhen.com
 i.microad.net
 i.mxplayer.j2inter.com
 i.onthe.io
-i.posthog.com
 i.realclick.vn
 i.simpli.fi
 i.singular.net
@@ -9223,6 +9231,7 @@ jenonaw.com
 jeoway.com
 jerboasjourney.com
 jewgn8une.com
+jexrkdmiv.com
 jf71qh5v14.com
 jfan1.com
 jfjle4g5l.com
@@ -10196,6 +10205,7 @@ main.pubexchange.com
 main.realsrv.com
 main.trafficfactory.biz
 mainadv.com
+mainexclkdir.com
 maio.jp
 maist.jp
 makafdsugxco.com
@@ -10924,6 +10934,7 @@ myadsystem.com
 myaffiliateprogram.com
 myaffiliates.com
 mybettermb.com
+mybidad.com
 mybloglog.com
 mybuys.com
 mycdn.media.net
@@ -11739,6 +11750,7 @@ parsely.com
 parsimoniouspolice.com
 partage-facile.com
 participants.evolv.ai
+partitiveretinstitution.com
 partner-ads.com
 partner.accesstrade.vn
 partner.api.getadmiral.com
@@ -12882,6 +12894,7 @@ r.trackwilltrk.com
 r.trwl1.com
 r.turn.com
 r.unblockia.com
+r.uuidksinc.net
 r.wdfl.co
 r.wowreality.info
 r0.mail.ru
@@ -13084,6 +13097,7 @@ reklamstore.com
 rel-s.com
 relaido.jp
 relap.io
+relationshipcourseably.com
 relay.fiverr.com
 relay1.exponential.com
 relmaxtop.com
@@ -13450,6 +13464,7 @@ rts.mobula.ds.duapps.com
 rts.mobula.sd.duapps.com
 rts.mobula.sdk.duapps.com
 rts.ssl2.duapps.com
+rttrk.com
 rtx.alcmpn.com
 rtxfeed.com
 rtxfeed.xml.ak-is2.net
@@ -13617,6 +13632,7 @@ s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
 s.update.spotxchange.com
 s.update.wo.gumgum.com
+s.uuidksinc.net
 s.vdo.ai
 s.vi-serve.com
 s.voicefive.com
@@ -13797,6 +13813,7 @@ script.ioam.de
 script.mclick.mobi
 script.novanet.vn
 script.proadscdn.com
+script.tapfiliate.com
 script.wpm.neustar.biz
 script.yomeno.xyz
 scripte-monster.de
@@ -14206,6 +14223,7 @@ simpliftsbefore.info
 simplycast.com
 simsite.outbrain.com
 sin.creativecdn.com
+sin.rttrk.com
 sin.ttrk.io
 sin1-ib.adnxs.com
 sin3-ib.adnxs.com
@@ -14913,6 +14931,7 @@ static.styria-digital.com
 static.subiz.com
 static.tagmanager.toast.com
 static.tapdb.net
+static.tapfiliate.com
 static.tebrand.asia
 static.tebrand.vn
 static.tieba.baidu.com
@@ -15525,6 +15544,7 @@ tapestry.tapad.com
 tapfiliate.com
 tapgen.com
 tapi.onthe.io
+tapi.tapfiliate.com
 tapinfluence.com
 tapioni.com
 tapit.com
@@ -15823,6 +15843,7 @@ torrentz.adclixx.net
 torrentz.adnetasia.com
 torrentz.adtrackers.net
 torrentz.bannertrack.net
+torroclk.com
 tosfeed.com
 tospointor.com
 totemcash.com
@@ -16637,6 +16658,7 @@ utm.sankei.jp.msn.com
 utop.umengcloud.com
 utt.impactcdn.com
 utubepwhml.com
+uuidksinc.net
 uumkcycj.com
 uwoaptee.com
 uyunad.com
@@ -16923,6 +16945,7 @@ viewpoint.com
 vig.tynt.com
 vigapi.tynt.com
 viiadr.com
+viieuvkf.com
 villa.alphonso.tv
 vindicosuite.com
 vionito.com
@@ -17100,6 +17123,7 @@ wd.sharethis.com
 wd.staging.sharethis.com
 wda.com
 wdads.sx.atl.publicus.com
+wdc.rttrk.com
 wdc.ttrk.io
 wearemiq.com
 weather-analytics-events.apple.com
@@ -17770,6 +17794,7 @@ www.loopme.me
 www.luckyorange.com
 www.mahimeta.com
 www.mainadv.com
+www.mainexclkdir.com
 www.marketgid.com
 www.marketo.com
 www.marketolive.com
@@ -17964,6 +17989,7 @@ www.swpsvc.com
 www.tagger.opecloud.com
 www.tamgrt.com
 www.tapdb.com
+www.tapfiliate.com
 www.tapjoy.com
 www.taplytics.com
 www.teads.tv
@@ -18003,6 +18029,7 @@ www.uniconsent.com
 www.unrulymedia.com
 www.uprimp.com
 www.upsight.com
+www.uuidksinc.net
 www.uyunad.com
 www.v9banners.com
 www.vads.net.vn
@@ -18184,6 +18211,7 @@ xtendmedia.com
 xtremepush.com
 xtremeserve.xyz
 xtremetop100.com
+xtuohnfwia.in
 xx.c.appier.net
 xxxcounter.com
 xxxjmp.com
