@@ -1,8 +1,8 @@
 # Title: abpvn
 # Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-# Last modified: 2026-06-08T09:58:03Z
+# Last modified: 2026-06-09T08:43:14Z
 # Syntax: domain
-# Number of entries: 18600
+# Number of entries: 18601
 #
 0a0d-d3l1vr.b-cdn.net
 0i0i0i0.com
@@ -3332,6 +3332,7 @@ apollo.showheroes.com
 apolloprogram.io
 app-adforce.jp
 app-ads-services.com
+app-analytics-services-att.com
 app-analytics-services.com
 app-analytics-v2.snapchat.com
 app-analytics.snapchat.com
