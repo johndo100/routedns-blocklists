@@ -1,8 +1,8 @@
 # Title: abpvn
 # Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-# Last modified: 2026-07-15T07:25:03Z
+# Last modified: 2026-07-16T07:32:50Z
 # Syntax: domain
-# Number of entries: 18925
+# Number of entries: 18986
 #
 0a0d-d3l1vr.b-cdn.net
 0i0i0i0.com
@@ -514,6 +514,7 @@ ad.br.doubleclick.net
 ad.caprofitx.adtdp.com
 ad.centrum.cz
 ad.cgi.cz
+ad.cj.sina.cn
 ad.cl.doubleclick.net
 ad.cn.doubleclick.net
 ad.cooks.com
@@ -543,6 +544,7 @@ ad.grafika.cz
 ad.gt
 ad.happynest.vn
 ad.hbv.de
+ad.hunyuan.tencent.com
 ad.huvle.com
 ad.hyena.cz
 ad.icheck.com.vn
@@ -1594,6 +1596,7 @@ ads.shopstyle.com
 ads.sibernetworks.com
 ads.sift.co.uk
 ads.simpli.fi
+ads.sina.com
 ads.smaato.com
 ads.smartclick.com
 ads.smrtb.com
@@ -2405,6 +2408,7 @@ agqoshfujku.com
 agt.distinctrobin.com
 agtcmuohbt.in
 ah-ha.com
+ah.eyesnamda.cfd
 ah.yimg.jp
 ahalogy.com
 ahdcrajmzbtvj.com
@@ -2924,6 +2928,7 @@ andomedia.com
 android-sdk.aatkit.com
 android-stat.acestream.net
 android.bugly.qq.com
+android.bugly.tencent.com
 android.heyzap.com
 android.unid.go.com
 androidads20.adcolony.com
@@ -3298,6 +3303,7 @@ api.unibots.in
 api.uniconsent.com
 api.unthem.com
 api.usebutton.com
+api.uve.weibo.com
 api.video.duapps.com
 api.vungle.com
 api.w.inmobi.cn
@@ -4107,6 +4113,7 @@ beacon.sina.com.cn
 beacon.sojern.com
 beacon.statful.com
 beacon.taboola.com
+beacon.tencent.com
 beacon.tingyun.com
 beacon.tru.am
 beacon.walmart.ca
@@ -4378,7 +4385,10 @@ books-analytics-events.apple.com
 boom.ro
 boomads.com
 boost-next.co.jp
+boot.biz.weibo.com
 boot.pbstck.com
+bootpreload.uve.weibo.com
+bootrealtime.uve.weibo.com
 bordeaux.futurecdn.net
 boredcrown.com
 bos.ads.nexage.com
@@ -4422,6 +4432,7 @@ branded.adspeed.net
 brandmetrics.com
 brandreachsys.com
 brandsafe.adlooxtracking.com
+brandvideo.biz.weibo.com
 branovate.com
 bravobusboy.com
 brazenwholly.com
@@ -6045,6 +6056,7 @@ counter.ntdvn.com
 counter.pixplug.in
 counter.rambler.ru
 counter.search.bg
+counter.sina.com.cn
 counter.snackly.co
 counter.yadro.ru
 counter11.stat.ovh
@@ -6532,6 +6544,7 @@ data4.aniview.com.edgekey.net
 dataapi.adop.cc
 databerries.com
 datacapture.serving-sys.com
+datacollection.uve.weibo.com
 datacollector-dra.dt.hicloud.com
 datafeed.a8.net
 datafront.co
@@ -7813,6 +7826,7 @@ flyingsquirellsmooch.com
 fm-p.jp
 fmlabsonline.cpm.ak-is2.net
 fnbauniukvi.com
+fnzocmpkp.com
 fo-api.omnitagjs.com
 fo-dyn.omnitagjs.com
 fo-ssp.omnitagjs.com
@@ -7848,6 +7862,7 @@ fota5p.adups.cn
 fota5p.adups.com
 fota5s.adups.cn
 fota5s.adups.com
+fota5t.adups.cn
 fota5t.adups.com
 fotareliance.adups.com
 fouanalytics.com
@@ -7994,6 +8009,7 @@ galactify.unrulymedia.com
 galaksion.com
 galaxiemedia.fr
 galaxien.com
+galileotelemetry.tencent.com
 gallery.adtima.vn
 gallery.gumgum.com
 gallery.smartadserver.com
@@ -8258,6 +8274,7 @@ go.mobpartner.mobi
 go.mobytrks.com
 go.mouseflow.com
 go.openx.com
+go.playlg.com
 go.polyad.net
 go.pub2srv.com
 go.rmishe.com
@@ -8403,6 +8420,10 @@ guardedschool.com
 guardianapps.co.uk
 guc-api.sonic-us.supersonicads.com
 guchihyfa.pro
+guid.tpns.hk.tencent.com
+guid.tpns.sgp.tencent.com
+guid.tpns.sh.tencent.com
+guid.tpns.tencent.com
 guidecent.com
 guidepaparazzisurface.com
 guihua-china.com
@@ -8700,6 +8721,11 @@ hub.onmarketer.net
 hub.simpli.fi
 hubvisor.io
 hud.crazyegg.com
+hue2n.com
+hue4c.com
+hueads.com
+hueadsortb.com
+hueadsxml.com
 hugazdazst.com
 hugfromoctopus.com
 hulu.pixel.invitemedia.com
@@ -9032,6 +9058,7 @@ imhd.io
 imimobile.com
 immediatemedia.amp.permutive.com
 immensehoney.com
+immizdgmacjvi.space
 immob.cn
 immoxdzdke.com
 imobile.jp
@@ -9316,6 +9343,7 @@ ionigravida.com
 ioredi.com
 ios-pclog.3u.com
 ios.bugly.qq.com
+ios.bugly.tencent.com
 ios.pclog.3u.com
 ios.unid.go.com
 iosads22.adcolony.com
@@ -9522,6 +9550,7 @@ jqyryzrbuqpfp.space
 jr.ads.zalo.me
 jr.ads.zaloapp.com
 jr.stg.ads.zalo.me
+jrmkpvntxat.com
 jrs.a4.tl
 js-ad.a.yximgs.com
 js-agent.newrelic.com
@@ -9639,6 +9668,7 @@ k8s2.testcentre.vn
 ka.display.ad.daum.net
 kabbmedia.com
 kadam.net
+kadmimage.biz.weibo.com
 kaffnet.com
 kaisauwoure.net
 kakaostory.ad.kakao.com
@@ -10150,6 +10180,7 @@ log.lichviet.org
 log.logrocket.com
 log.logrocket.io
 log.mediation.onebooster.me
+log.mix.sina.com.cn
 log.mmstat.com
 log.mofa.go.kr
 log.mp3.zing.vn
@@ -10173,6 +10204,7 @@ log.quora.com
 log.saigondautu.com.vn
 log.sdk.zadn.vn
 log.sggp.org.vn
+log.sina.cn
 log.smoney.vn
 log.snapdeal.com
 log.snow.me
@@ -10191,6 +10223,9 @@ log.tieudungthoinay.vn
 log.tinnhanhchungkhoan.vn
 log.tinxe.vn
 log.tpns.gz2.tencent.com
+log.tpns.hk.tencent.com
+log.tpns.sgp.tencent.com
+log.tpns.sh.tencent.com
 log.tpns.tencent.com
 log.tutuapp.com
 log.tv.zing.vn
@@ -10222,6 +10257,7 @@ log16-normal-us-ttp.capcutapi.us
 log16-normal.capcutapi.com
 log2.adsplay.net
 log2.cmpassport.com
+log2.sina.cn
 log2.spotify.com
 log3.adsplay.net
 log32-normal-sg.capcutapi.com
@@ -10386,6 +10422,9 @@ m.doublemax.net
 m.eskimi.com
 m.faktor.io
 m.game.weibo.cn
+m.hue11.com
+m.hue14.com
+m.hue2b.com
 m.infolinks.com
 m.lkqd.net
 m.loopme.me
@@ -11127,6 +11166,8 @@ mssdk16-normal-us-ttp.capcutapi.us
 mssdk16-normal.capcutapi.com
 mssdk32-normal-sg.capcutapi.com
 mssdk32-normal.capcutapi.com
+mstat.tpns.sh.tencent.com
+mstat.tpns.tencent.com
 mstorer.net
 mstr.sharethrough.com
 mt.binmanoboles.com
@@ -11285,6 +11326,7 @@ navigator.io
 navigator.mediarithmics.com
 navrcholu.cz
 nazarickol.com
+nbnbewlhy.com
 nbryb.com
 nc.gdt.qq.com
 nc.pubpowerplatform.io
@@ -11805,6 +11847,7 @@ origincdn.cpmstar.com
 origunix.com
 oriori.com
 orlotalers.com
+ormatenqron.com
 orqmimfug.in
 ortb.yieldlab.net
 ortshk.tapas.net
@@ -12664,6 +12707,7 @@ precisioncounter.com
 predataclient.b-cdn.net
 predictad.com
 predictiondexchange.com
+prefecturesuggestions.com
 preferencenail.com
 prefleks.com
 prelive.movad.net
@@ -12831,6 +12875,7 @@ psa.appnexus.com
 psaltauw.net
 psankei.chartbeat.net
 pscontent.playstream.media
+pshdo.com
 psma02.com
 pson.logging.admicro.vn
 psoroumukr.com
@@ -14108,6 +14153,7 @@ sb.scorecardresearch.com
 sb.voicefive.com
 sbbanner-com.cdn.ampproject.org
 sbbanner.com
+sbeacon.sina.com.cn
 sbs-ad.com
 sbx.pagesjaunes.fr
 sc-static.net
@@ -14237,8 +14283,11 @@ sdk.s.360.cn
 sdk.sharethrough.com
 sdk.starbolt.io
 sdk.truepush.com
+sdkaction.biz.weibo.com
 sdkapi.dsp-api.moloco.com
 sdkapp.mobile.sina.cn
+sdkapp.uve.weibo.com
+sdkclick.biz.weibo.com
 sdkclick.mobile.sina.cn
 sdkconfig.ad.india.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
@@ -14248,6 +14297,7 @@ sdki.truepush.com
 sdklog.tvstore.opera.com
 sdkm.w.inmobi.cn
 sdkm.w.inmobi.com
+sdkmonitor.biz.weibo.com
 sdktm.w.inmobi.cn
 sdkupgrade.insight.ucweb.com
 sdscdn.userreport.com
@@ -14490,6 +14540,8 @@ sg.adserver.yahoo.com
 sg.as.y.atwola.com
 sg.c.appier.net
 sg.cityads.com
+sg.enwovenspences.cyou
+sg.galileotelemetry.tencent.com
 sg.mmstat.com
 sg.rayjump.com
 sg01.mtgglobals.com
@@ -15134,6 +15186,9 @@ stat.pl
 stat.play.zing.vn
 stat.pushwoosh.com
 stat.tpns.gz2.tencent.com
+stat.tpns.hk.tencent.com
+stat.tpns.sgp.tencent.com
+stat.tpns.sh.tencent.com
 stat.tpns.tencent.com
 stat.tudou.com
 stat.webmedia.pl
@@ -15344,6 +15399,7 @@ statis.dsp.vn
 statistic-blog-v2.sapoapps.vn
 statistic.ads24h.net
 statistic.batdongsan.com.vn
+statistic.cj.sina.cn
 statistics-vov2.vov.vn
 statistics.tapchimypham.com.vn
 statistics.vov.vn
@@ -16325,6 +16381,7 @@ track.blueserving.com
 track.bluexad.ai
 track.brealtime.com
 track.buybestday.com
+track.catrck.net
 track.cbdatatracker.com
 track.celtra.com
 track.contently.com
@@ -16352,6 +16409,7 @@ track.linksynergy.com
 track.loopme.me
 track.maxvaluead.com
 track.mclick.mobi
+track.mddsp.info
 track.movad.net
 track.mp4.center
 track.notsy.io
@@ -17072,6 +17130,7 @@ utt.impactcdn.com
 utubepwhml.com
 uuidksinc.net
 uumkcycj.com
+uve.weibo.com
 uvopoefe.com
 uwoaptee.com
 uyunad.com
@@ -17532,6 +17591,7 @@ waxa-direct.info
 waymarkgentiin.com
 wbamedia.com
 wbapp.mobile.sina.cn
+wbapp.uve.weibo.com
 wbclick.mobile.sina.cn
 wbdds.jeuxvideo.com
 wbidder.online
@@ -17645,6 +17705,7 @@ wetrack.it
 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 wg-aff.com
 wg.zaloapp.com
+wgkqywcf.com
 wgo.mmstat.com
 wgtyvqbfkxg.com
 whairtoa.com
