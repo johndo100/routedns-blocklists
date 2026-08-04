@@ -1,8 +1,8 @@
 # Title: abpvn
 # Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-# Last modified: 2026-08-03T08:44:00Z
+# Last modified: 2026-08-04T07:57:07Z
 # Syntax: domain
-# Number of entries: 19043
+# Number of entries: 19068
 #
 0a0d-d3l1vr.b-cdn.net
 0i0i0i0.com
@@ -2643,8 +2643,11 @@ am-vid-events.taboola.com
 am-wf.taboola.com
 am.adlooxtracking.com
 am.alcmpn.com
+am.blueduckredapple.com
 am.diecasepachas.cyou
+am.everestop.io
 am.teindpumpage.cfd
+am.thecatmachine.com
 am15.net
 amare.agency
 amazemobilemedia.com
@@ -3041,6 +3044,7 @@ api-c.hiaiabc.com
 api-compatible.mixpanel.com
 api-d.hiaiabc.com
 api-df.hiaiabc.com
+api-eu-a.bidmachine.io
 api-eu.bidmachine.io
 api-exc.hiaiabc.com
 api-gd.hiaiabc.com
@@ -3127,6 +3131,7 @@ api.b2c.com
 api.bam-x.com
 api.batch.com
 api.batterylab.duapps.com
+api.bidmachine.io
 api.bingads.microsoft.com
 api.boclinkads.com
 api.bounceexchange.com
@@ -4256,6 +4261,7 @@ biddr.dev.brealtime.com
 bidfilter.com
 bidgear.com
 bidgear.rtb.adtarget.biz
+bidmachine.io
 bidproxy.ibillboard.com
 bidr.io
 bids-nc-a.aaxads.com
@@ -4332,6 +4338,7 @@ blue.thehill.com
 blueadss.com
 bluecava.com
 blueconic.net
+blueduckredapple.com
 blueeagle.smaato.net
 bluegrasstoday.adspeed.net
 bluekai.com
@@ -5938,6 +5945,7 @@ conopidlanai.qpon
 consearch.jp
 consent-dev.mediaforge.com
 consent-manager-events.ogury.io
+consent.easybrain.com
 consent.ivitrack.com
 consent.linksynergy.com
 consent.mediaforge.com
@@ -6197,6 +6205,7 @@ crm.ants.vn
 crmpt.livejasmin.com
 crmt.livejasmin.com
 croakglanceskier.com
+cross-promo-provider.easybrain.com
 cross.aniview.com
 cross.gameads.io
 crosspromo.voodoo.io
@@ -6336,6 +6345,7 @@ d.applvn.com
 d.appsdt.com
 d.batmobi.net
 d.bizible.com
+d.blueduckredapple.com
 d.blueserving.com
 d.c.appier.net
 d.cfjump.com
@@ -6357,6 +6367,7 @@ d.r10.mopub.com
 d.reddit.com
 d.scorecardresearch.com
 d.shareaholic.com
+d.thecatmachine.com
 d.turn.com
 d.us.criteo.com
 d.uuidksinc.net
@@ -7438,6 +7449,7 @@ etracker.de
 ets-ap-southeast-1.track.smaato.net
 ets-eu-west-1.track.smaato.net
 ets-us-east-1.track.smaato.net
+ets.easybrain.com
 eu-1-id5-sync.com
 eu-1a.connectad.io
 eu-adcenter.net
@@ -7672,10 +7684,12 @@ ezula.com
 f-api.accesstrade.net
 f-emc.ngsp.gov.vn
 f-rtg2.bumlam.com
+f.blueduckredapple.com
 f.clarity.ms
 f.everestop.io
 f.m2.ai
 f.novanet.vn
+f.thecatmachine.com
 f.trazk.com
 f1.p0y.cn
 f2.ad.gt
@@ -8036,6 +8050,7 @@ gameanalytics.com
 games.cityads.com
 games.wiinvent.tv
 gamesrevenue.com
+gamestats.easybrain.com
 gamma.cachefly.net
 gammaplatform.com
 gammassp.com
@@ -13499,6 +13514,7 @@ register.powerlinks.com
 registry.connatix.com
 regnow.com
 regulationprivilegescan.top
+reinscreendecompose.com
 reklamport.com
 reklamstore.com
 rel-s.com
@@ -13975,6 +13991,7 @@ s.amazon-adsystem.com
 s.axonix.com
 s.baomoi.xdn.vn
 s.beop.io
+s.blueduckredapple.com
 s.bollywoodmenswear.com
 s.c.appier.net
 s.click.aliexpress.com
@@ -14036,6 +14053,7 @@ s.sharethis.com
 s.side3.zucks.net
 s.soha.vn
 s.tenmax.io
+s.thecatmachine.com
 s.tribalfusion.com
 s.truepush.com
 s.trvdp.com
@@ -14099,6 +14117,8 @@ s2s.t13.io
 s2s.yieldlove-ad-serving.net
 s2stracking.g2afse.com
 s3-analytics-events.easybrain.com
+s3-ca-liveops.easybrain.com
+s3-playable-ads.easybrain.com
 s3-us.servebom.com
 s3.addthis.com
 s3.adpia.vn
@@ -15859,7 +15879,6 @@ t.easyads28.mobi
 t.eclick.vn
 t.effectivemeasure.net
 t.eloqua.com
-t.everestop.io
 t.firstpromoter.com
 t.freelancer.com
 t.g.l.inmobicdn.net
@@ -16152,6 +16171,7 @@ the-ozone-project.com
 theadex.com
 theadhost.com
 thebugs.ws
+thecatmachine.com
 theekedgleamed.com
 theeptoah.com
 theetheks.com
@@ -17590,12 +17610,14 @@ vz-cdn.trafficjunky.net
 w.1igzn4xcl7fne6b.cfd
 w.ad.style
 w.adsco.re
+w.blueduckredapple.com
 w.everestop.io
 w.ic.tynt.com
 w.inmobi.cn
 w.inmobi.com
 w.sharethis.com
 w.staging.sharethis.com
+w.thecatmachine.com
 w.vip.dfw2.inmobi.cn
 w0we.com
 w0wtrackex.com
@@ -18145,6 +18167,7 @@ www.bizographics.com
 www.bkrtx.com
 www.blockadsnot.com
 www.blueadss.com
+www.blueduckredapple.com
 www.blueseed.tv
 www.boffoadsfeeds.com
 www.bollywoodmenswear.com
@@ -18228,6 +18251,7 @@ www.epom.com
 www.eskimi.com
 www.ethicalads.io
 www.everestjs.net
+www.everestop.io
 www.evidon.com
 www.exelator.com
 www.exoclick.com
@@ -18557,6 +18581,7 @@ www.tapjoy.com
 www.taplytics.com
 www.teads.tv
 www.tenmax.io
+www.thecatmachine.com
 www.themediagrid.com
 www.themoneytizer.com
 www.theweblocker.net
