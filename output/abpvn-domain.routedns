@@ -1,8 +1,8 @@
 # Title: abpvn
 # Source: https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
-# Last modified: 2026-10-24T09:37:43Z
+# Last modified: 2026-10-25T09:55:23Z
 # Syntax: domain
-# Number of entries: 19217
+# Number of entries: 19263
 #
 0a0d-d3l1vr.b-cdn.net
 0i0i0i0.com
@@ -385,6 +385,7 @@ acp-sh.adblade.com
 acquiredeceasedundress.com
 acrdb.alphonso.tv
 acridtwist.com
+acs-mum.alibabachengdun.com
 acs.adtdp.com
 acs86.com
 acsbapp.com
@@ -2597,6 +2598,8 @@ alexatracker.com
 alexisceilingrelease.com
 algorix.co
 ali-ad.a.yximgs.com
+ali-ctf-req.cn-hangzhou.dualstack.log.aliyuncs.com
+ali-ctf.cn-hangzhou.dualstack.log.aliyuncs.com
 ali-stats.jpush.cn
 ali.cityads.com
 alia-iso.com
@@ -2606,6 +2609,7 @@ alikeaddition.com
 alipromo.com
 alitui.weibo.com
 alivc-aio-sgp.ap-southeast-1.log.aliyuncs.com
+alivc-aio.cn-hangzhou.log.aliyuncs.com
 all.dspmulti.com
 alladvantage.com
 allaqxoh.com
@@ -2703,6 +2707,7 @@ amplify-imp.outbrain.com
 amplify.adspeed.net
 amplify.outbrain.com
 amplifypixel.outbrain.com
+amplitude.com
 ampm.outbrain.com
 ampmhcbehnapwt.com
 amprtc.media.net
@@ -3048,6 +3053,8 @@ apex-ad.com
 apex.adpushup.com
 apex.go.sonobi.com
 apfxpuatkla.com
+api-access.pangolin-sdk-toutiao.com
+api-access.pangolin-sdk-toutiao1.com
 api-ad-adapter.wps.com
 api-ad-data.kajicam.com
 api-ad.kajicam.com
@@ -3214,6 +3221,7 @@ api.jpush.cn
 api.juicyads.com
 api.kochava.com
 api.lab.amplitude.com
+api.lab.eu.amplitude.com
 api.leanplum.com
 api.lijit.com
 api.localytics.com
@@ -3390,9 +3398,12 @@ apiv2.tiin.vn
 apiv4.subiz.com
 apk.adflex.vn
 apl.headlines.pw
+aplus.alibaba.com
 apm-collector.daumkakao.io
 apm-log-upload-os.hoyoverse.com
 apm.adasiaholdings.com
+apmplus.ap-southeast-1.volces.com
+apmplus.volces.com
 apn.c.appier.net
 apn.yllix.com
 apnjp.c.appier.net
@@ -3519,7 +3530,6 @@ apporigin.scanscout.com
 apportal.airpush.com
 apprebates.com
 appredeem.com
-appres.camera360.com
 apprupt.com
 apps.ants.vn
 apps.bizible.com
@@ -3562,6 +3572,7 @@ apx.pixel.avazutracking.net
 apx.rdkt.avazutracking.net
 apx.trck.avazutracking.net
 apx.ui.avazutracking.net
+apzptquixoyr.com
 aq7ua5ma85rddeinve.com
 aqauikfd.com
 aqua-adserver.com
@@ -3573,7 +3584,6 @@ ar.umeng.com
 ar.voicefive.com
 aralego.com
 aralego.net
-arc.io
 archswimming.com
 arcspire.io
 ard.yahoo.co.jp
@@ -3856,6 +3866,7 @@ awhilediplomagloss.com
 awin1.com
 awjojjrimaf.in
 awmdelivery.com
+awqmgvpbarmhyw.com
 aws-ac.o-s.io
 aws-api.sail-personalize.com
 aws-api.sail-track.com
@@ -4177,6 +4188,7 @@ begun.ru
 behaviad.net
 behavioralengine.com
 beixisys.com
+beizi.biz
 beklefkiom.com
 belia-glp.com
 belstat.com
@@ -4753,6 +4765,7 @@ callfire.com
 callloop.com
 callousbrake.com
 cameesse.net
+camera360-api.360in.com
 camp.purchase-shop.com
 campaign.ad-brix.com
 campaign.adpushup.com
@@ -5858,6 +5871,7 @@ collect.adhacker.online
 collect.analyse.lnearn.com
 collect.analytics.unity3d.com
 collect.banggood.com
+collect.camera360.com
 collect.data.tm-awx.com
 collect.igodigital.com
 collect.iperceptions.com
@@ -5914,6 +5928,7 @@ commander1.com
 commandersact.com
 commercialvalue.org
 commissionmonster.com
+common-api.360in.com
 common.duapps.com
 common.ssl2.duapps.com
 compactbanner.com
@@ -6908,6 +6923,7 @@ discreetfield.com
 dismantlepenantiterrorist.com
 disp.djaxadserver.com
 dispatcher.360in.com
+dispatcher.camera360.com
 dispatcher.mng-ads.com
 display-ad-rgt0me85.kgslb.com
 display.ad.daum.net
@@ -8122,6 +8138,7 @@ gangwaynumberprivacy.com
 gaseousgeneral.com
 gatekeeper.outbrain.com
 gatetodisplaycontent.com
+gator.volces.com
 gaug.es
 gayadnetwork.com
 gbalancer.connectad.io
@@ -8472,6 +8489,7 @@ greystripe.com
 grid-bidder.criteo.com
 grid.bidswitch.net
 gridaisefty.com
+gromore.pangolin-sdk-toutiao.com
 groovinads.com
 grouchybrothers.com
 group11.iperceptions.com
@@ -9023,6 +9041,7 @@ ij.cobolgammed.com
 ik.hatcheskoeri.shop
 ikahnruntx.com
 iki.daleriki.com
+il.coiffesreal.qpon
 ilead.itrack.it
 ileeckut.com
 illustriousoatmeal.com
@@ -9967,6 +9986,7 @@ launches.appsflyersdk.com
 launchpoint.marketo.com
 lavamedia.vn
 lavanetwork.net
+lavnkios.in
 lax-1-apex.go.sonobi.com
 lax-1-sync.go.sonobi.com
 lax-1-xcp.go.sonobi.com
@@ -10171,6 +10191,7 @@ location.appcloudbox.net
 lockerdomecdn.com
 lodeo-adnw.adtdp.com
 log-anninhthudo.zadn.vn
+log-api.pangolin-sdk-toutiao.com
 log-auth.flysleep.cn
 log-auth.zztfly.com
 log-baobackan.zadn.vn
@@ -10629,6 +10650,7 @@ manage.juicyads.com
 mandateowl.com
 manpowerspiritualunrented.com
 mantis.autoads.asia
+maobtqwrqrzxm.com
 map.admarvel.com
 map.mediaforge.com
 mapbasin.com
@@ -10727,6 +10749,7 @@ mautic.serverhub.vn
 mautic.sts.vn
 mautic.teky.edu.vn
 mautic.vmax.vn
+mauve-pinkgetawhifftime.com
 mavericks.marketo.com
 mavq.net
 mawlaybob.com
@@ -11280,6 +11303,7 @@ mssdk-v2-boot.capcutapi.com
 mssdk.capcutapi.us
 mssdk.tiktokw.eu
 mssdk.tiktokw.us
+mssdk.volces.com
 mssdk16-normal-sg.capcutapi.com
 mssdk16-normal-us-ttp.capcutapi.us
 mssdk16-normal.capcutapi.com
@@ -11313,6 +11337,8 @@ mugs.marketo.com
 multi1-wdc.youbora.com
 multi2-wdc.youbora.com
 multilinkhost.com
+mum.alibabachengdun.com
+mum.alibabachengdun.net
 mumazfqir.in
 munchkin.marketo.net
 murkymouse.online
@@ -12197,6 +12223,10 @@ panel.sociaplus.com
 pangle-b.io
 pangle.io
 pangle.pangleglobal.com
+pangolin-dsp-toutiao.com
+pangolin-sdk-toutiao-b.com
+pangolin-sdk-toutiao.com
+pangolin-sdk-toutiao1.com
 pangolin16.sgsnssdk.com
 paol.chartbeat.net
 paopao.iqiyi.com
@@ -12415,6 +12445,7 @@ pflexads.com
 pfox.chartbeat.net
 pg.alcmpn.com
 pge.unityads.unity3d.com
+pglstatp-toutiao.com
 pgmcdn.com
 pgmediaserve.com
 pgpartner.com
@@ -12433,6 +12464,7 @@ phonograph2.voxmedia.com
 phoossax.net
 phortaub.com
 photo-ads.zaloapp.com
+phototask-api.360in.com
 php.trafficfactory.biz
 phpadsnew.wn.com
 phpmyvisites.net
@@ -13184,6 +13216,7 @@ pushlaram.com
 pushmaster-cdn.xyz
 pushmeup.art
 pushmono.com
+pushmsg.camera360.com
 pushnami.com
 pushnative.com
 pushno.com
@@ -13640,6 +13673,7 @@ reluctancefleck.com
 remarket.clicktripz.com
 remotepwn.com
 remox.com
+renamereptiliantrance.com
 renderstreamshuttleanalytics.net
 renzo-aws.logrocket.io
 renzo-azure.logrocket.io
@@ -14430,6 +14464,7 @@ sdk.appnext.com
 sdk.appsflyer.com
 sdk.apptentive.com
 sdk.beesads.com
+sdk.beizi.biz
 sdk.conscent.in
 sdk.e.qq.com
 sdk.fra-01.braze.eu
@@ -14454,6 +14489,7 @@ sdk.s.360.cn
 sdk.sharethrough.com
 sdk.starbolt.io
 sdk.truepush.com
+sdk.zhangyuyidong.cn
 sdkaction.biz.weibo.com
 sdkapi.dsp-api.moloco.com
 sdkapp.mobile.sina.cn
@@ -14690,6 +14726,7 @@ sf.nazs.socdm.com
 sf.vserv.mobi
 sf16-static.i18n-pglstatp.com
 sf16-telemetry-proxy-oci.tiktokcdn-us.com
+sf3-fe-tos.pglstatp-toutiao.com
 sfiannzilgi.com
 sfsapi.micloud.xiaomi.net
 sftp.criteo.com
@@ -15119,6 +15156,8 @@ sqm.df.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
 squeegetirret.cyou
 squeezely.tech
+sr-client-cfg.amplitude.com
+sr-client-cfg.eu.amplitude.com
 sr-weight.rlcdn.com
 sr.opencoccoc.com
 sr.turn.com
@@ -16058,6 +16097,7 @@ t85itha3nitde.com
 ta.toprework.vn
 ta3nfsordd.com
 tab-obj.conversantmedia.com
+tab.volces.com
 tableau.marketo.com
 tabmo2018.go2cloud.org
 taboola-supply-partners.tremorhub.com
@@ -16212,6 +16252,7 @@ tcss.qq.com
 tcugibodvow.in
 tdf.ringier.ch
 tdid.m.qq.com
+tdum.alibaba.com
 teads.tv
 tealeaf.com
 tealium.com
@@ -16934,6 +16975,7 @@ ttgmjfgldgv9ed10.com
 ttrk.io
 ttt.onthe.io
 ttus.tructiepbongda.me
+tu.bawrelcuttail.com
 tu.moatads.com
 tube.buzzoola.com
 tubeadvertising.eu
@@ -17108,6 +17150,7 @@ umengacs.m.taobao.com
 umengcloud.com
 umengjmacs.m.taobao.com
 umexalim.com
+umlazada.alibaba.com
 ums.adtechus.com
 umtrack.com
 unanimis.co.uk
@@ -17199,6 +17242,7 @@ url.sd.duapps.com
 urlcash.net
 urlhandler.aniview.com
 urlhausa.com
+urrfkabrkhxjat.com
 us-ads.openx.net
 us-adsrv.rtbsuperhub.com
 us-central.load.exelator.com
@@ -17592,6 +17636,7 @@ videoapi.smartadserver.com
 videocdn.adspeed.net
 videocdnshop.com
 videocloud-sgp.ap-southeast-1.log.aliyuncs.com
+videocloud.cn-hangzhou.log.aliyuncs.com
 videoegg.com
 videoevents.outbrain.com
 videology-partners.tremorhub.com
@@ -19160,6 +19205,7 @@ zeusadx.xml.ak-is2.net
 zeusclicks.com
 zeustechnology.com
 zh-log.vietnamplus.vn
+zhangyuyidong.cn
 zhihu-analytics.zhihu.com
 zhiziyun.com
 zhoyyibwywgev.one
